@@ -17,7 +17,7 @@ Select de html y materializecss para selecciona estados y cargar sus municipios
             <select id="estado" name="estado"></select>
             <label for="estado">Estado</label>
         </div>
-        <div id="municipios" class="input-field col s12 m12 l6">
+        <div class="input-field col s12 m12 l6">
             <select id="municipio" name="municipio"></select>
             <label for="municipio">Municipio</label>
         </div>
